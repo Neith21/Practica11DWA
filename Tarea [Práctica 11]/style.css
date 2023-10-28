@@ -1,0 +1,17 @@
+/* Estilo para el navbar con color de fondo. */
+.navbar {
+    background-color: #FFDEAD;
+    padding: 10px 0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.titulo {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img-fluid {
+    height: 10%;
+    width: 100%;
+}
